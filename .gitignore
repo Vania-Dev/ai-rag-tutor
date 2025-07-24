@@ -29,6 +29,3 @@
 .DS_Store
 Thumbs.db
 .env
-
-# Datos del RAG
-data/*
